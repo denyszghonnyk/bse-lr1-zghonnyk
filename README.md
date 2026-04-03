@@ -11,11 +11,8 @@
 ## Технології
 
 - Мова програмування: Haskell: 9.10.3
-
 - IDE: Visual Studio Code 1.106.2
-
 - VCS: Git 2.47 + GitHub
-
 - AI-асистент: GitHub Copilot Student
 
 ## Встановлення та запуск
